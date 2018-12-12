@@ -6,6 +6,20 @@ Some of us are already in our terminal and need confirmation that we're connecte
 All you have to do is connect to mullvad however you have your machine configured to do and run this script to verify that it's working correctly.
 
 ## Requirements
+The banner is using `figlet`. 
+
+###Ubuntu/Debian
+
+`apt-get install figlet`
+
+or
+
+###Arch Linux
+`pacman -S figlet`
+
+
+Are people still using Fedora? do i really need to add that line?
+
 This script requires `json, requests, os,` and `termcolor` to run. I think most of you should already have most of these already installed. 
 
 `pip install termcolor`

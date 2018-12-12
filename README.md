@@ -6,9 +6,11 @@ All you have to do is connect to mullvad however you have your machine configure
 
 This script requires `json, requests, os,` and `termcolor` to run. I think most of you should already have most of these already installed. 
 
-1.`pip install termcolor`
-2.`pip install json`
-3.`pip install requests`
+`pip install termcolor`
+
+`pip install json`
+
+`pip install requests`
 
 ### Usage:
 

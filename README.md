@@ -8,13 +8,13 @@ All you have to do is connect to mullvad however you have your machine configure
 ## Requirements
 The banner is using `figlet`. 
 
-###Ubuntu/Debian
+### Ubuntu/Debian
 
 `apt-get install figlet`
 
 or
 
-###Arch Linux
+### Arch Linux
 `pacman -S figlet`
 
 

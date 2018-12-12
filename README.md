@@ -1,4 +1,6 @@
 # amimullvad.py
+<img src="ami_screenshot.png" alt="amimullvad screenshot">
+
 ![alt text] [/img/ami_screenshot.png "AmiMullvad"]
 
 Some of us are already in our terminal and need confirmation that we're connected to our vpn. Opening a browser and going ot the am.i.mullvad.net link isn't always fast enough. This python script verifies from your terminal if you're in fact connected to mullvad's VPN.
